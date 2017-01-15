@@ -1,7 +1,8 @@
 source 'https://rubygems.org'
 
 gem 'rails', '4.2.7.1'
-gem 'monkey', '~> 1.0.3'
+gem 'horse', '~> 1.0.3'
+
 
 # Responders respond_to and respond_with
 gem 'responders', '~> 2.0'
