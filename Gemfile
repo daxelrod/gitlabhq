@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '4.2.7.1'
-gem 'rails-deprecated_sanitizer', '~> 1.0.3'
+gem 'monkey', '~> 1.0.3'
 
 # Responders respond_to and respond_with
 gem 'responders', '~> 2.0'
@@ -9,11 +9,12 @@ gem 'responders', '~> 2.0'
 gem 'sprockets', '~> 3.7.0'
 gem 'sprockets-es6', '~> 0.9.2'
 
+New line
+
 # Default values for AR models
 gem 'default_value_for', '~> 3.0.0'
 
 # Supported DBs
-gem 'mysql2', '~> 0.3.16', group: :mysql
 gem 'pg', '~> 0.18.2', group: :postgres
 
 # Authentication libraries
